@@ -5,7 +5,7 @@ import "../../../node_modules/bootstrap/dist/css/bootstrap.css";
 const Demo = (props) => {
   return (
     <div>
-    <h1>{`${course} - Module tables`}</h1>
+    <h1>{`${props.course} - Module tables`}</h1>
     <table className="table table-bordered">
       <thead>
         <tr>
@@ -16,12 +16,12 @@ const Demo = (props) => {
       </thead>
       <tbody >
         <tr>
-          <td>{module[0]}</td>
+          <td>{`${props.modules[0].name}`}</td>
           <td>2</td>
           <td>3</td>
         </tr>
         <tr>
-          <td>{module[1]}</td>
+          <td>{`${props.modules[1].name}`}</td>
           <td>2</td>
           <td>2</td>
         </tr>
