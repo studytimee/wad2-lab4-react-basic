@@ -1,7 +1,7 @@
 # React JS - Basics
 
 
-| **JS Objects**                                            | **Console Output**                       | **Code**                                   |**Storybook**                               |
+| **JS Objects**                                            | **Console Output**                       | **Code**                                   |**Storybook Code**                               |
 | --------------------------------------------------------- | -----------------------------------------| ------------------------------------------ | ------------------------------------------ | 
 | Start up -                                                |  [View](https://i.imgur.com/pHWEVWc.png) | [View](https://i.imgur.com/Bnc4iHQ.png)    |                                            | 
 | Exercise 1 - Static Component                             |  [View](https://i.imgur.com/Jd6bkFT.png) | [View](https://i.imgur.com/NDDnNHG.png)    |                                            |    
