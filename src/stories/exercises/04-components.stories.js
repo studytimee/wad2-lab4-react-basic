@@ -7,7 +7,7 @@ export default {
 };
 
 export const Basic = () => {
-  const name = "HDip Computer Science";
+  const name = "MSC Enterprise Software Systems";
   const modules = [
     {
       name: "DevOps",
